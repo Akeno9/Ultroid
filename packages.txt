@@ -1,0 +1,6 @@
+neofetch 
+ffmpeg
+aria2c
+curl
+wget
+git
